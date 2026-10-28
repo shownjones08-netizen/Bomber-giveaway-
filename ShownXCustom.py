@@ -96,13 +96,13 @@ def default_reply_keyboard() -> ReplyKeyboardMarkup:
         resize_keyboard=True
     )
 
-MAIN_OWNER = 7651030474
-SUPER_ADMIN_NAME = "@BlurNobita"
-SUPER_ADMIN_LINK = "https://t.me/BlurNobita"
-SUPER_ADMINS = [7651030474]
+MAIN_OWNER = 8984851474
+SUPER_ADMIN_NAME = "@WhoIsShown"
+SUPER_ADMIN_LINK = "https://t.me/WhoIsShown"
+SUPER_ADMINS = [8984851474]
 
-BOT_TOKEN = "8513520533:AAHUtXGfHR-YzajGyw5s1Oj-62DmYm-2muI"
-LOG_CHANNEL_ID = -1003978116236
+BOT_TOKEN = ""
+LOG_CHANNEL_ID = -
 
 _DATA_FILE = "blast_data.json"
 _VERSION = "v3.2-PREMIUM"
